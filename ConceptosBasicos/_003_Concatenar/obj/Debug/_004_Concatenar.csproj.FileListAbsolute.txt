@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\bin\Debug\_003_Concatenar.exe.config
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\bin\Debug\_003_Concatenar.exe
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\bin\Debug\_003_Concatenar.pdb
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\obj\Debug\_004_Concatenar.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\obj\Debug\_004_Concatenar.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\obj\Debug\_004_Concatenar.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\obj\Debug\_003_Concatenar.exe
+F:\Proyectos C#\ConceptosBasicos\_003_Concatenar\obj\Debug\_003_Concatenar.pdb

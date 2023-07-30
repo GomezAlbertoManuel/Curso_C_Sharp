@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\bin\Debug\_008_Constantes.exe.config
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\bin\Debug\_008_Constantes.exe
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\bin\Debug\_008_Constantes.pdb
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\obj\Debug\_008_Constantes.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\obj\Debug\_008_Constantes.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\obj\Debug\_008_Constantes.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\obj\Debug\_008_Constantes.exe
+F:\Proyectos C#\ConceptosBasicos\_008_Constantes\obj\Debug\_008_Constantes.pdb

@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\bin\Debug\_002_DeclararVariables.exe.config
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\bin\Debug\_002_DeclararVariables.exe
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\bin\Debug\_002_DeclararVariables.pdb
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\obj\Debug\_002_DeclararVariables.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\obj\Debug\_002_DeclararVariables.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\obj\Debug\_002_DeclararVariables.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\obj\Debug\_002_DeclararVariables.exe
+F:\Proyectos C#\ConceptosBasicos\_002_DeclararVariables\obj\Debug\_002_DeclararVariables.pdb

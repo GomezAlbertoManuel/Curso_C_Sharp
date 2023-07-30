@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\bin\Debug\_003_OperadoresArimeticos.exe.config
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\bin\Debug\_003_OperadoresArimeticos.exe
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\bin\Debug\_003_OperadoresArimeticos.pdb
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.exe
+F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.pdb

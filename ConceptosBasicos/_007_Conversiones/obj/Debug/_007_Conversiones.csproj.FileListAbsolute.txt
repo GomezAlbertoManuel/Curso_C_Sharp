@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\bin\Debug\_007_Conversiones.exe.config
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\bin\Debug\_007_Conversiones.exe
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\bin\Debug\_007_Conversiones.pdb
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\obj\Debug\_007_Conversiones.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\obj\Debug\_007_Conversiones.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\obj\Debug\_007_Conversiones.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\obj\Debug\_007_Conversiones.exe
+F:\Proyectos C#\ConceptosBasicos\_007_Conversiones\obj\Debug\_007_Conversiones.pdb

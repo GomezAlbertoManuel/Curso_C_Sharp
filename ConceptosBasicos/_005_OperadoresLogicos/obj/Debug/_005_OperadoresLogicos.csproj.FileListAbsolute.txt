@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\bin\Debug\_005_OperadoresLogicos.exe.config
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\bin\Debug\_005_OperadoresLogicos.exe
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\bin\Debug\_005_OperadoresLogicos.pdb
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.exe
+F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.pdb

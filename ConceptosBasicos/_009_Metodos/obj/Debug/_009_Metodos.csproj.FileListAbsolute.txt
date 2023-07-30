@@ -1,0 +1,8 @@
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\obj\Debug\_009_Metodos.csproj.AssemblyReference.cache
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\obj\Debug\_009_Metodos.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\obj\Debug\_009_Metodos.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\bin\Debug\_009_Metodos.exe.config
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\bin\Debug\_009_Metodos.exe
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\bin\Debug\_009_Metodos.pdb
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\obj\Debug\_009_Metodos.exe
+F:\Proyectos C#\ConceptosBasicos\_009_Metodos\obj\Debug\_009_Metodos.pdb
