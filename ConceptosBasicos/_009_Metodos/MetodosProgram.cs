@@ -16,22 +16,31 @@ namespace _009_Metodos
  *                     Cuando llamamos al método, el programa ejecuta este código.
  *      
  *      
- *  ---------------------------------------------------------------------------------------------    
- *  Declaración de metodos (sintaxis)
- *
- *
- *      tipodevuelto nombreMetodo (parámetros)
- *      {
- *          Cuerpo del método
- *      }
- *         
- *
- *  .Los parametros no son obligatorios, pero los parentsis si.
- *  .Anteponiendo la palabra reservada "void" al nombre del metodo, indicamos que el metodo no devuelve ningun valor
- *  .Los metodos que retornan valor SIEMPRE deben terminar con la palabra reservada "return" seguida del valor a devolver.
+ *  ---------------------------------------------------------------------------------------------
  *  
- *  Tip: Tecnicamente hablando, el valor a devolver puede ser cualquier cosa, pero no seria logico crear un metodo para calcular
- *       la suma de "a + b + c", pero que  me devuelva "a"
+ *          Declaración de metodos (sintaxis)
+ *
+ *   |---------------------------------------------|
+ *   |                                             |
+ *   |   tipodevuelto NombreMetodo (parámetros)    |
+ *   |   {                                         |
+ *   |       Cuerpo del método                     |
+ *   |   }                                         |
+ *   |                                             |
+ *   |---------------------------------------------|
+ *               Convención "PascalCasing"
+ *  
+ *  
+ *  .Los parametros no son obligatorios, pero los parentsis si.
+ *  
+ *  .Los metodos que retornan valor SIEMPRE deben terminar con la palabra reservada "return" seguida del valor a devolver.
+ *   Tecnicamente hablando, el valor a devolver puede ser cualquier cosa, pero no seria logico crear un metodo para calcular
+ *   la suma de "a + b + c", pero que  me devuelva "a"
+ *       
+ *  .Anteponiendo la palabra reservada "void" al nombre del metodo, indicamos que el metodo no devuelve ningun valor.
+ *   Un metodo que no retorna valor puede ESCRIBIR el texto "25" en pantalla, pero ese "25" no sirve para hacer calculos.
+ *   En cambio un metodo que si retorna valor, nos RETORNA el valor "25" y este valor si puede ser usado para hacer calculos.
+ *
  */
 
 {
@@ -39,8 +48,8 @@ namespace _009_Metodos
     {        
         static void Main(string[] args)
         {
-            //Metodos sin parametros que retornan valor (return)
-            double perimetroRectangulo()
+            //Metodos sin parametros con valor de retorno (return)
+            double PerimetroRectangulo()
             {
                 double alto = 10;
                 double ancho = 20;
@@ -50,7 +59,7 @@ namespace _009_Metodos
                 return perimetro;                
             }
 
-            double areaRectangulo()
+            double AreaRectangulo()
             {
 
                 Console.WriteLine("Por favor ingrese la base del rectangulo");
@@ -65,17 +74,17 @@ namespace _009_Metodos
             }
 
             Console.WriteLine("Aquí se calcula el perimetro de un rectangulo de 10 de alto x 20 de ancho");
-            Console.WriteLine($"Da como resultado {perimetroRectangulo()} \r\n");
+            Console.WriteLine($"Da como resultado {PerimetroRectangulo()} \r\n");
 
             Console.WriteLine("Y ahora, con su ayuda, vamos a calcular el area de este u otro rectangulo \r\n");
 
-            areaRectangulo();
+            AreaRectangulo();
             Console.WriteLine("\r\n");
-            
 
 
-            //Metodos con parametros que retornan valor (return)
-            double areaTriangulo(double baseT, double alturaT)
+
+            //Metodos con parametros con valor de retorno (return)
+            double AreaTriangulo(double baseT, double alturaT)
             {
                 double areaT = (baseT * alturaT) / 2;
                 return areaT;
@@ -87,7 +96,7 @@ namespace _009_Metodos
             
                         
             Console.WriteLine("A continuacion se calcula el area de un triangulo con una base de 35 y una altura de 30. ");
-            Console.WriteLine($"Da como resultado: {areaTriangulo(25, 30)} \r\n");
+            Console.WriteLine($"Da como resultado: {AreaTriangulo(25, 30)} \r\n");
 
             Console.WriteLine("Una vez mas, con su ayuda calcularemos el perimetro de un tringulo.\r\n");
 
@@ -105,7 +114,7 @@ namespace _009_Metodos
 
 
             /* Hasta este punto del codigo hemos usado metodos que estan dentro del "Main"
-             * le dimos su tipo, nombre, parametros y cuero.
+             * le dimos su tipo, nombre, parametros y cuerpo.
              * pero los metodos suelen usarse dentro de una clase, no dentro del metodo "Main"
              */
 
@@ -113,17 +122,18 @@ namespace _009_Metodos
             //------------------------------------------------------------------------------------------------------------------
             // A continuacion utilizaremos metodos que estan fuera del "Main", pero dentro de la clase "MetodosProgram"
 
-            explicacion ();
-            
+            Explicacion();
 
+            Suma(25, 30);
 
 
 
 
         }
 
-        //Metodos sin parametros que NO retornan valor (void)
-        static void explicacion ()
+
+        //Metodo sin parametros sin valor de retorno (void)
+        static void Explicacion ()
         {
             Console.WriteLine("\r\nA continuacion utilizaremos metodos que estan fuera del \"Main\", pero dentro de la clase \"MetodosProgram\" \r\n" +
                 "Para que el metodo no retorne valor hay que anteponer la palabra reservada \"void\" \r\n" +
@@ -132,83 +142,13 @@ namespace _009_Metodos
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        // .Descomentar el siguiente bloque de codigo  y comentar el bloque anterior para que no de error
-        //---------------------------------------------------------------------------------
-
-            /*
-
-            // Método sin parámetros y sin valor de retorno
-            public void MetodoSinParametrosNiRetorno()
-            {
-                Console.WriteLine("Este es un método sin parámetros y sin valor de retorno.");
-            }
-
-            // Método con parámetros y sin valor de retorno
-            public void MetodoConParametros(int parametro1, string parametro2)
-            {
-                Console.WriteLine("Este es un método con parámetros: " + parametro1 + " y " + parametro2);
-            }
-
-            // Método sin parámetros pero con valor de retorno
-            public int MetodoConRetorno()
-            {
-                int resultado = 42;
-                return resultado;
-            }
-
-            // Método con parámetros y con valor de retorno
-            public double MetodoConParametrosYRetorno(double numero1, double numero2)
-            {
-                double resultado = numero1 + numero2;
-                return resultado;
-            }
-
-            // Método estático (static) con parámetros y con valor de retorno
-            public static int MetodoEstatico(int num1, int num2)
-            {
-                int resultado = num1 * num2;
-                return resultado;
-            }
-
-            public static void Main()
-            {
-                MetodosProgram miObjeto = new MetodosProgram();
-
-                // Llamadas a los diferentes métodos
-                miObjeto.MetodoSinParametrosNiRetorno();
-                miObjeto.MetodoConParametros(10, "Hola");
-                int resultado1 = miObjeto.MetodoConRetorno();
-                Console.WriteLine("Resultado del método con retorno: " + resultado1);
-
-                double resultado2 = miObjeto.MetodoConParametrosYRetorno(3.5, 2.7);
-                Console.WriteLine("Resultado del método con parámetros y retorno: " + resultado2);
-
-                int resultado3 = MetodosProgram.MetodoEstatico(5, 7);
-                Console.WriteLine("Resultado del método estático: " + resultado3);
-            }
-            */
-
-
-
+        // Método con parámetros sin valor de retorno
+        static void Suma(int parametro1, int parametro2)
+        {
+            Console.WriteLine($"¿Por qué si esto es un metodo que no retorna valor, igualmente puedo ver el resultado de una suma?\r\n" +
+                $"Ejemplo: 25 + 30 = {parametro1 + parametro2}");
         }
+        
+
+    }
     }
