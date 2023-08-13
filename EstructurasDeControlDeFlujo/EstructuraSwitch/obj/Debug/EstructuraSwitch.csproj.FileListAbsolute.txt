@@ -1,0 +1,8 @@
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\bin\Debug\EstructuraSwitch.exe.config
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\bin\Debug\EstructuraSwitch.exe
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\bin\Debug\EstructuraSwitch.pdb
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\obj\Debug\EstructuraSwitch.csproj.AssemblyReference.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\obj\Debug\EstructuraSwitch.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\obj\Debug\EstructuraSwitch.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\obj\Debug\EstructuraSwitch.exe
+E:\Proyectos C#\EstructurasDeControlDeFlujo\EstructuraSwitch\obj\Debug\EstructuraSwitch.pdb

@@ -10,7 +10,7 @@ namespace _001_TiposDeDatos
             Console.WriteLine();      
 
             // Ejemplo de sbyte
-            sbyte numeroSbyte = -50;
+            sbyte numeroSbyte = -20;
             Console.WriteLine("Valor de sbyte: Entero con signo de 8 bits.  " + numeroSbyte);
 
             // Ejemplo de byte

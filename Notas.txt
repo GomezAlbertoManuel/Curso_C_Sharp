@@ -1,0 +1,72 @@
+Operadores más comunes en C#:
+
+1. Operadores aritméticos:
+   - Suma (+)
+   - Resta (-)
+   - Multiplicación (*)
+   - División (/)
+   - Módulo (%)
+
+2. Operadores de asignación:
+   - Asignación (=)
+   - Asignación y suma (+=)
+   - Asignación y resta (-=)
+   - Asignación y multiplicación (*=)
+   - Asignación y división (/=)
+   - Asignación y módulo (%=)
+   - Asignación y desplazamiento a la izquierda (<<=)
+   - Asignación y desplazamiento a la derecha (>>=)
+   - Asignación y bitwise AND (&=)
+   - Asignación y bitwise OR (|=)
+   - Asignación y bitwise XOR (^=)
+
+3. Operadores de comparación:
+   - Igual a (==)
+   - No igual a (!=)
+   - Mayor que (>)
+   - Menor que (<)
+   - Mayor o igual que (>=)
+   - Menor o igual que (<=)
+
+4. Operadores lógicos:
+   - Y lógico (&&)
+   - O lógico (||)
+   - Negación lógica (!)
+
+5. Operadores de desplazamiento:
+   - Desplazamiento a la izquierda (<<)
+   - Desplazamiento a la derecha (>>)
+
+6. Operadores bitwise:
+   - AND bitwise (&)
+   - OR bitwise (|)
+   - XOR bitwise (^)
+   - Complemento a uno (~)
+
+7. Operadores condicionales:
+   - Operador condicional ternario (condición ? expresión1 : expresión2)
+
+8. Operadores de incremento/decremento:
+   - Incremento (++var)
+   - Decremento (--var)
+
+9. Operadores de tipo:
+   - Comprobación de tipo (is)
+   - Conversión de tipo (as)
+
+10. Operadores de miembro:
+    - Acceso a miembros (.)
+
+11. Operador de indexación:
+    - Indexación ([])
+
+12. Operador de tamaño de tipo:
+    - sizeof
+
+13. Operador de dirección de puntero:
+    - &
+
+14. Operador de indirección de puntero:
+    - *
+
+Recuerda que la lista anterior no es exhaustiva, ya que C# cuenta con otros operadores más específicos y avanzados, pero estos son los más utilizados en la mayoría de los casos.
