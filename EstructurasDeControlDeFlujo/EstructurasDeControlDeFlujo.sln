@@ -5,9 +5,20 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_001_Condicional_If", "_001_Condicional_If\_001_Condicional_If.csproj", "{FE151CD7-EC42-475F-A1F2-83D6F9CACE83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructuraSwitch", "EstructuraSwitch\EstructuraSwitch.csproj", "{C9589F06-84C1-468A-AA39-1FCE08385544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_004_EstructuraSwitch", "EstructuraSwitch\_004_EstructuraSwitch.csproj", "{C9589F06-84C1-468A-AA39-1FCE08385544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While&DoWhile", "While&DoWhile\While&DoWhile.csproj", "{5CB847EA-6B80-46C4-A393-77641F67EC80}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_003_While&DoWhile", "While&DoWhile\_003_While&DoWhile.csproj", "{5CB847EA-6B80-46C4-A393-77641F67EC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_002_CicloFor", "CicloFor\_002_CicloFor.csproj", "{06C31924-9B19-4D24-85B2-0243D05CCB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_005_Excepciones", "_005_Excepciones\_005_Excepciones.csproj", "{26BD85DA-5BA7-47A7-9021-26F6A8DAF5EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{379D956C-C83B-4DDF-A9F1-26CCF7CF55B5}"
+	ProjectSection(SolutionItems) = preProject
+		Alumno.cs = Alumno.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_000_Pruebas", "_000_Pruebas\_000_Pruebas.csproj", "{36F682BF-9422-44CC-B099-9DCEB52D0DB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +38,18 @@ Global
 		{5CB847EA-6B80-46C4-A393-77641F67EC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB847EA-6B80-46C4-A393-77641F67EC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB847EA-6B80-46C4-A393-77641F67EC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C31924-9B19-4D24-85B2-0243D05CCB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C31924-9B19-4D24-85B2-0243D05CCB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C31924-9B19-4D24-85B2-0243D05CCB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C31924-9B19-4D24-85B2-0243D05CCB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BD85DA-5BA7-47A7-9021-26F6A8DAF5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BD85DA-5BA7-47A7-9021-26F6A8DAF5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BD85DA-5BA7-47A7-9021-26F6A8DAF5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BD85DA-5BA7-47A7-9021-26F6A8DAF5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F682BF-9422-44CC-B099-9DCEB52D0DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F682BF-9422-44CC-B099-9DCEB52D0DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F682BF-9422-44CC-B099-9DCEB52D0DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F682BF-9422-44CC-B099-9DCEB52D0DB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

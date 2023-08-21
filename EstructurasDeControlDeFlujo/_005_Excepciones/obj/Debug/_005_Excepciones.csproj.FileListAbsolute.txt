@@ -1,0 +1,8 @@
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\bin\Debug\_005_Excepciones.exe.config
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\bin\Debug\_005_Excepciones.exe
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\bin\Debug\_005_Excepciones.pdb
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\obj\Debug\_005_Excepciones.csproj.AssemblyReference.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\obj\Debug\_005_Excepciones.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\obj\Debug\_005_Excepciones.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\obj\Debug\_005_Excepciones.exe
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_005_Excepciones\obj\Debug\_005_Excepciones.pdb

@@ -1,0 +1,8 @@
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\obj\Debug\_000_Pruebas.csproj.AssemblyReference.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\obj\Debug\_000_Pruebas.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\obj\Debug\_000_Pruebas.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\bin\Debug\_000_Pruebas.exe.config
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\bin\Debug\_000_Pruebas.exe
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\bin\Debug\_000_Pruebas.pdb
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\obj\Debug\_000_Pruebas.exe
+E:\Proyectos C#\EstructurasDeControlDeFlujo\_000_Pruebas\obj\Debug\_000_Pruebas.pdb

@@ -1,0 +1,8 @@
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\obj\Debug\EscuelaPrimaria.csproj.AssemblyReference.cache
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\obj\Debug\EscuelaPrimaria.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\obj\Debug\EscuelaPrimaria.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\bin\Debug\EscuelaPrimaria.exe.config
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\bin\Debug\EscuelaPrimaria.exe
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\bin\Debug\EscuelaPrimaria.pdb
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\obj\Debug\EscuelaPrimaria.exe
+E:\Proyectos C#\EscuelaPrimaria\EscuelaPrimaria\obj\Debug\EscuelaPrimaria.pdb

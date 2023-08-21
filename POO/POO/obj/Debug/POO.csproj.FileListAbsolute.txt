@@ -1,0 +1,16 @@
+F:\Proyectos C#\POO\POO\bin\Debug\POO.exe.config
+F:\Proyectos C#\POO\POO\bin\Debug\POO.exe
+F:\Proyectos C#\POO\POO\bin\Debug\POO.pdb
+F:\Proyectos C#\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+F:\Proyectos C#\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+F:\Proyectos C#\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+F:\Proyectos C#\POO\POO\obj\Debug\POO.exe
+F:\Proyectos C#\POO\POO\obj\Debug\POO.pdb
+E:\Proyectos C#\POO\POO\bin\Debug\POO.exe.config
+E:\Proyectos C#\POO\POO\bin\Debug\POO.exe
+E:\Proyectos C#\POO\POO\bin\Debug\POO.pdb
+E:\Proyectos C#\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\POO\obj\Debug\POO.exe
+E:\Proyectos C#\POO\POO\obj\Debug\POO.pdb
