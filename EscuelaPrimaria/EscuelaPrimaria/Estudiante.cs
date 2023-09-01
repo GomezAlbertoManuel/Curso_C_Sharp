@@ -22,12 +22,12 @@ namespace EscuelaPrimaria
         {  // Establecer el color del texto
             Console.ForegroundColor = ConsoleColor.Yellow;
 
-            Console.Write($"{this.nombre}: " + texto);
+            Console.Write($"{this.nombre}:  ");
 
             // Restablecer el color a su valor predeterminado
             Console.ResetColor();
 
-          
+            Console.WriteLine(texto);
 
 
 

@@ -9,23 +9,27 @@ namespace POO
     internal class Program
     {
         static void Main(string[] args)
-        {/*
-            // Creación de un objeto de la clase Persona
-            Persona persona1 = new Persona("Juan", 25);
+        {            
+            // La Programación Orientada a Objetos (POO) es un paradigma de programación
+            // que se basa en la idea de modelar el mundo real a través de objetos.
+            // En C#, los objetos son instancias de clases, que son como moldes
+            // que definen la estructura y comportamiento de un objeto.
 
-            // Acceso a las propiedades y métodos del objeto
-            Console.WriteLine($"Nombre: {persona1.Nombre}");
-            Console.WriteLine($"Edad: {persona1.Edad}");
-            persona1.Presentarse();*/
+            // Los conceptos clave de la POO en C# incluyen:
+            // - Clases: Definen la estructura y el comportamiento de un objeto.
+            // - Objetos: Son instancias de clases, representan datos y acciones.
+            // - Propiedades: Son características de un objeto, como su color o tamaño.
+            // - Métodos: Son funciones que describen las acciones que un objeto puede realizar.
+            // - Herencia: Permite que una clase herede propiedades y métodos de otra.
+            // - Encapsulamiento: Oculta los detalles internos de una clase y expone solo lo necesario.
+            // - Abstracción: Simplifica la complejidad al enfocarse en los aspectos relevantes.
+            // - Polimorfismo: Permite que diferentes clases compartan un nombre de método,
+            //   pero lo implementen de manera diferente.
 
-            Persona persona1 = new Persona();
+            // En resumen, la POO en C# organiza el código en objetos que representan
+            // entidades del mundo real, lo que facilita el diseño, la reutilización
+            // y el mantenimiento del software.
 
-            Console.WriteLine(persona1.Nombre = "leonardo " +  (persona1.Edad = 25)) ;
-
-            Console.WriteLine(persona1.Altura = 25.5);
-            Console.WriteLine("texto para dividir");
-
-            Console.WriteLine(persona1.Altura);
         }
     }
 }

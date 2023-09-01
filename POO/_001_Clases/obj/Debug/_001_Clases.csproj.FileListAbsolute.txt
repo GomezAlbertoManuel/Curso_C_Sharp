@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_001_Clases\bin\Debug\_001_Clases.exe.config
+E:\Proyectos C#\POO\_001_Clases\bin\Debug\_001_Clases.exe
+E:\Proyectos C#\POO\_001_Clases\bin\Debug\_001_Clases.pdb
+E:\Proyectos C#\POO\_001_Clases\obj\Debug\_001_Clases.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_001_Clases\obj\Debug\_001_Clases.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_001_Clases\obj\Debug\_001_Clases.exe
+E:\Proyectos C#\POO\_001_Clases\obj\Debug\_001_Clases.pdb

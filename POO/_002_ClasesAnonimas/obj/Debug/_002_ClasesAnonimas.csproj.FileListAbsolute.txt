@@ -1,0 +1,8 @@
+E:\Proyectos C#\POO\_002_ClasesAnonimas\bin\Debug\_002_ClasesAnonimas.exe.config
+E:\Proyectos C#\POO\_002_ClasesAnonimas\bin\Debug\_002_ClasesAnonimas.exe
+E:\Proyectos C#\POO\_002_ClasesAnonimas\bin\Debug\_002_ClasesAnonimas.pdb
+E:\Proyectos C#\POO\_002_ClasesAnonimas\obj\Debug\_002_ClasesAnonimas.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_002_ClasesAnonimas\obj\Debug\_002_ClasesAnonimas.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\POO\_002_ClasesAnonimas\obj\Debug\_002_ClasesAnonimas.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_002_ClasesAnonimas\obj\Debug\_002_ClasesAnonimas.exe
+E:\Proyectos C#\POO\_002_ClasesAnonimas\obj\Debug\_002_ClasesAnonimas.pdb

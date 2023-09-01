@@ -8,6 +8,10 @@ namespace _012_ParametrosOpcionales
 {
     internal class Program
     {
+        // Para crear metodos con parametros opcionales
+        // hay que asignarle un valor por defecto al parametro que deseamos que sea opcional
+        // y cuando llamamos al metodo podemos sobreescribir el valor o dejarlo por defecto.        
+             
         static int suma(int num1, int num2 = 0) => num1 + num2;
 
         static int suma(int num1, int num2, int num3) => num1 + num2 + num3;

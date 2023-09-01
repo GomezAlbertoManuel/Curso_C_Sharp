@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\bin\Debug\_004_ImportarMetodosStatic.exe.config
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\bin\Debug\_004_ImportarMetodosStatic.exe
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\bin\Debug\_004_ImportarMetodosStatic.pdb
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\obj\Debug\_004_ImportarMetodosStatic.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\obj\Debug\_004_ImportarMetodosStatic.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\obj\Debug\_004_ImportarMetodosStatic.exe
+E:\Proyectos C#\POO\_004_ImportarMetodosStatic\obj\Debug\_004_ImportarMetodosStatic.pdb

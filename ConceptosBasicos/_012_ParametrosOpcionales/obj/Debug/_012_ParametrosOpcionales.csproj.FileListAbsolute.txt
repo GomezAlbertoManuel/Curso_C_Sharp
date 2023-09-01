@@ -6,3 +6,11 @@ F:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_Parame
 F:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.csproj.CoreCompileInputs.cache
 F:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.exe
 F:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.pdb
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\bin\Debug\_012_ParametrosOpcionales.exe.config
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\bin\Debug\_012_ParametrosOpcionales.exe
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\bin\Debug\_012_ParametrosOpcionales.pdb
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.csproj.AssemblyReference.cache
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.exe
+E:\Proyectos C#\ConceptosBasicos\_012_ParametrosOpcionales\obj\Debug\_012_ParametrosOpcionales.pdb

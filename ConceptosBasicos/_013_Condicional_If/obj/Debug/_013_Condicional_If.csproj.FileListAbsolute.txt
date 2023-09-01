@@ -1,0 +1,8 @@
+E:\Proyectos C#\Curso C#\_013_Condicional_If\bin\Debug\_013_Condicional_If.exe.config
+E:\Proyectos C#\Curso C#\_013_Condicional_If\bin\Debug\_013_Condicional_If.exe
+E:\Proyectos C#\Curso C#\_013_Condicional_If\bin\Debug\_013_Condicional_If.pdb
+E:\Proyectos C#\Curso C#\_013_Condicional_If\obj\Debug\_013_Condicional_If.csproj.AssemblyReference.cache
+E:\Proyectos C#\Curso C#\_013_Condicional_If\obj\Debug\_013_Condicional_If.csproj.SuggestedBindingRedirects.cache
+E:\Proyectos C#\Curso C#\_013_Condicional_If\obj\Debug\_013_Condicional_If.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\Curso C#\_013_Condicional_If\obj\Debug\_013_Condicional_If.exe
+E:\Proyectos C#\Curso C#\_013_Condicional_If\obj\Debug\_013_Condicional_If.pdb

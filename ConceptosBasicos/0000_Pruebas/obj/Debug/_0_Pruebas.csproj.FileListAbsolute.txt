@@ -1,8 +1,0 @@
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\bin\Debug\0000_Pruebas.exe.config
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\bin\Debug\0000_Pruebas.exe
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\bin\Debug\0000_Pruebas.pdb
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\obj\Debug\_0_Pruebas.csproj.AssemblyReference.cache
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\obj\Debug\_0_Pruebas.csproj.SuggestedBindingRedirects.cache
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\obj\Debug\_0_Pruebas.csproj.CoreCompileInputs.cache
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\obj\Debug\0000_Pruebas.exe
-E:\Proyectos C#\ConceptosBasicos\0000_Pruebas\obj\Debug\0000_Pruebas.pdb

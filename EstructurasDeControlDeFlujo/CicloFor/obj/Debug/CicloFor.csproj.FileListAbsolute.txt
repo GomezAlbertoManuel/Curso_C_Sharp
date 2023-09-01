@@ -1,8 +1,0 @@
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\bin\Debug\CicloFor.exe.config
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\bin\Debug\CicloFor.exe
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\bin\Debug\CicloFor.pdb
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\obj\Debug\CicloFor.csproj.AssemblyReference.cache
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\obj\Debug\CicloFor.csproj.SuggestedBindingRedirects.cache
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\obj\Debug\CicloFor.csproj.CoreCompileInputs.cache
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\obj\Debug\CicloFor.exe
-E:\Proyectos C#\EstructurasDeControlDeFlujo\CicloFor\obj\Debug\CicloFor.pdb
