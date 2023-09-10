@@ -10,7 +10,6 @@ E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\bin\Debug\_001_TiposDeDatos.e
 E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\bin\Debug\_001_TiposDeDatos.exe
 E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\bin\Debug\_001_TiposDeDatos.pdb
 E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\obj\Debug\_001_TiposDeDatos.csproj.AssemblyReference.cache
-E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\obj\Debug\_001_TiposDeDatos.csproj.SuggestedBindingRedirects.cache
 E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\obj\Debug\_001_TiposDeDatos.csproj.CoreCompileInputs.cache
 E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\obj\Debug\_001_TiposDeDatos.exe
 E:\Proyectos C#\ConceptosBasicos\_001_TiposDeDatos\obj\Debug\_001_TiposDeDatos.pdb

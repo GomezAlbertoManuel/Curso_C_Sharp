@@ -6,3 +6,10 @@ F:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_Ope
 F:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.csproj.CoreCompileInputs.cache
 F:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.exe
 F:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.pdb
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\bin\Debug\_006_OperadoresDeComparacion.exe.config
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\bin\Debug\_006_OperadoresDeComparacion.exe
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\bin\Debug\_006_OperadoresDeComparacion.pdb
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.csproj.AssemblyReference.cache
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.exe
+E:\Proyectos C#\ConceptosBasicos\_006_OperadoresDeComparacion\obj\Debug\_006_OperadoresDeComparacion.pdb

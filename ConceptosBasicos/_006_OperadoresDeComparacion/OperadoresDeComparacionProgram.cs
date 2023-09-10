@@ -31,7 +31,7 @@ namespace _006_OperadoresDeComparacion
             bool mayorOIgualQue = b >= c;
             Console.WriteLine($"Es {b} mayor o igual que {c}? {mayorOIgualQue}");
 
-            // Operador Igual a "="
+            // Operador Igual a "=="
             bool igualQue = a == c;
             Console.WriteLine($"Es {a} igual a {c}? {igualQue}");
 

@@ -1,0 +1,7 @@
+E:\Proyectos C#\ConceptosBasicos\_000_\bin\Debug\_000_.exe.config
+E:\Proyectos C#\ConceptosBasicos\_000_\bin\Debug\_000_.exe
+E:\Proyectos C#\ConceptosBasicos\_000_\bin\Debug\_000_.pdb
+E:\Proyectos C#\ConceptosBasicos\_000_\obj\Debug\_000_.csproj.AssemblyReference.cache
+E:\Proyectos C#\ConceptosBasicos\_000_\obj\Debug\_000_.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ConceptosBasicos\_000_\obj\Debug\_000_.exe
+E:\Proyectos C#\ConceptosBasicos\_000_\obj\Debug\_000_.pdb

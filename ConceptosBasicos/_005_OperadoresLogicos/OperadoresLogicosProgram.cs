@@ -10,8 +10,8 @@ namespace _005_OperadoresLogicos
     {
         static void Main(string[] args)
         {
-            bool condicion1 = true;
-            bool condicion2 = false;
+            bool condicion1 = false;
+            bool condicion2 = true;
 
             // Operador AND (&&)
             if (condicion1 && condicion2)

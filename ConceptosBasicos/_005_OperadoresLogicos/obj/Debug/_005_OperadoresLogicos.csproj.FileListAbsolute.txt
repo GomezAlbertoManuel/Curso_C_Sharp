@@ -6,3 +6,10 @@ F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_Operadore
 F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.csproj.CoreCompileInputs.cache
 F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.exe
 F:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.pdb
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\bin\Debug\_005_OperadoresLogicos.exe.config
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\bin\Debug\_005_OperadoresLogicos.exe
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\bin\Debug\_005_OperadoresLogicos.pdb
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.csproj.AssemblyReference.cache
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.exe
+E:\Proyectos C#\ConceptosBasicos\_005_OperadoresLogicos\obj\Debug\_005_OperadoresLogicos.pdb

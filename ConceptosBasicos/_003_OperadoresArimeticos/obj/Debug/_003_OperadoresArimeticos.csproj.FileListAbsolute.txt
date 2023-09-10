@@ -6,3 +6,10 @@ F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_Operad
 F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.csproj.CoreCompileInputs.cache
 F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.exe
 F:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.pdb
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.csproj.AssemblyReference.cache
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.exe
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\obj\Debug\_003_OperadoresArimeticos.pdb
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\bin\Debug\_003_OperadoresArimeticos.exe.config
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\bin\Debug\_003_OperadoresArimeticos.exe
+E:\Proyectos C#\ConceptosBasicos\_003_OperadoresArimeticos\bin\Debug\_003_OperadoresArimeticos.pdb

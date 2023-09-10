@@ -1,0 +1,7 @@
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\bin\Debug\_019_CicloForeach.exe.config
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\bin\Debug\_019_CicloForeach.exe
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\bin\Debug\_019_CicloForeach.pdb
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\obj\Debug\_019_CicloForeach.csproj.AssemblyReference.cache
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\obj\Debug\_019_CicloForeach.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\obj\Debug\_019_CicloForeach.exe
+E:\Proyectos C#\ConceptosBasicos\_019_CicloForeach\obj\Debug\_019_CicloForeach.pdb
