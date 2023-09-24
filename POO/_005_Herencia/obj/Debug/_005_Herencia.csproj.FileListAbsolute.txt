@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_005_Herencia\bin\Debug\_005_Herencia.exe.config
+E:\Proyectos C#\POO\_005_Herencia\bin\Debug\_005_Herencia.exe
+E:\Proyectos C#\POO\_005_Herencia\bin\Debug\_005_Herencia.pdb
+E:\Proyectos C#\POO\_005_Herencia\obj\Debug\_005_Herencia.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_005_Herencia\obj\Debug\_005_Herencia.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_005_Herencia\obj\Debug\_005_Herencia.exe
+E:\Proyectos C#\POO\_005_Herencia\obj\Debug\_005_Herencia.pdb

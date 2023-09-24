@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POO
 {
-    internal class Program
+    internal class DescripcionProgram
     {
         static void Main(string[] args)
         {            
