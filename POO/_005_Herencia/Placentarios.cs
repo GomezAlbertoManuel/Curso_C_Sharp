@@ -12,27 +12,18 @@ namespace _005_Herencia
         
         public Placentarios(string nombre, bool hembra) : base(nombre)
         {
-            if (hembra) { Console.WriteLine("es hembra."); }
-            Console.WriteLine("es macho.");
-            this.hembra = hembra;
-           
+            if (hembra) { Console.WriteLine("es hembra.\r\n"); }
+            else { Console.WriteLine("es macho.\r\n"); }
+            this.hembra = hembra;          
         }
-
-
 
 
         public void Gestar() 
         {
-            if (this.hembra) { Console.WriteLine("Estoy gestando vida en mi interior"); }
-            Console.WriteLine("Solo las hembras son capaces de gestar");
-        }
-
-    
-        // Metodo Static. Se puede acceder direcamente de la clase.
-        public static void Info()
-        {
-            Console.WriteLine("Placentarios: La mayoría de los mamíferos pertenecen al grupo de los placentarios.\r\nEstos mamíferos desarrollan a sus crías en el útero de la madre y nacen como crías más desarrolladas.\r\n");
-        }
+            if (this.hembra){ Console.WriteLine("Estoy gestando vida en mi interior"); }
+            else { Console.WriteLine("Solo las hembras son capaces de gestar"); }
+        }           
+      
     }
 }
 

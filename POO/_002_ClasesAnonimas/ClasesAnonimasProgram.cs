@@ -4,7 +4,7 @@
 
 namespace _002_ClasesAnonimas
 {
-    internal class Program
+    internal class ClasesAnonimasProgram
     {
         static void Main(string[] args)
         {
