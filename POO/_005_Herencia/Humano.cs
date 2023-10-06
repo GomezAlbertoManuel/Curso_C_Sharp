@@ -10,20 +10,22 @@ namespace _005_Herencia
     internal class Humano : Placentarios
     {
         public int edad;
-        
-
+        //public new string[] hembra = new string[3];
         public Humano(string nombre, bool hembra, int edad) : base (nombre, hembra)
         { 
-            Console.WriteLine($"Pertenesiente a la clase Humano con {edad} años.\r\n \r\n");
+            Console.WriteLine($"Pertenesiente a la clase Humano con {edad} años.");
             this.edad = edad;
+        }
+
+        new public void pensar()
+        {
+            Console.WriteLine("Pensamiento avanzado");
         }
 
         public void Charlar() 
         {
-            Console.WriteLine($"Me llamo {nombre}, cuando gustes nos juntamos a charlar.");
+            Console.WriteLine($"Hola!!\r\nMe llamo {nombre}, cuando gustes nos juntamos a charlar.");
         }
-
-
-
+        
     }
 }

@@ -1,7 +1,0 @@
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\bin\Debug\_006_Sustitucio_Y_Polimorfismo.exe.config
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\bin\Debug\_006_Sustitucio_Y_Polimorfismo.exe
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\bin\Debug\_006_Sustitucio_Y_Polimorfismo.pdb
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\obj\Debug\_006_Sustitucio_Y_Polimorfismo.csproj.AssemblyReference.cache
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\obj\Debug\_006_Sustitucio_Y_Polimorfismo.csproj.CoreCompileInputs.cache
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\obj\Debug\_006_Sustitucio_Y_Polimorfismo.exe
-E:\Proyectos C#\POO\_006_Sustitucio_Y_Polimorfismo\obj\Debug\_006_Sustitucio_Y_Polimorfismo.pdb
