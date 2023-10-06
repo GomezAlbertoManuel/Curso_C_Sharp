@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_008_Interface\bin\Debug\_008_Interface.exe.config
+E:\Proyectos C#\POO\_008_Interface\bin\Debug\_008_Interface.exe
+E:\Proyectos C#\POO\_008_Interface\bin\Debug\_008_Interface.pdb
+E:\Proyectos C#\POO\_008_Interface\obj\Debug\_008_Interface.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_008_Interface\obj\Debug\_008_Interface.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_008_Interface\obj\Debug\_008_Interface.exe
+E:\Proyectos C#\POO\_008_Interface\obj\Debug\_008_Interface.pdb

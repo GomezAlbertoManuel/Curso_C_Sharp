@@ -11,28 +11,35 @@ namespace _005_Herencia
         // Al utilizar clases que heredan de otras, podemos utilizar las propiedades y metodos heredadas de las mismas.
 
         static void Main(string[] args)
-        {
-            Mamifero.info();
+        {   
+            // C O N S T R U C T O R E S
+
             // las clases hijas heredan los constructores de las superclases.
             // En este ejemplo tenemos la clase "Humano" que hereda de "Placentario" que hereda de "Mamifero"
-            // En la clase "Mamifero" el constructor nos solicita un parametro de tipo "string" (nombre).
-            // En la subclase "Placentario" estamos obligados a repetir ese dato y añadimos el "apellido"
-            // Y por ultimo en la subclase "Humano" tenemos que repetir los dos datos anteriores y añadimos la "edad". 
+            
             Mamifero ballena = new Mamifero("Willy");
-            Console.WriteLine();
+            // En la clase "Mamifero" el constructor nos solicita un parametro de tipo "string" (nombre).
+                        
             Placentarios caballo = new Placentarios("Tiro", false);
+            // En la subclase "Placentario" estamos obligados a repetir el parametro "nombre"
+            // Y añadimos un parametro boleano para definir el sexo (true para hembra, false para macho)
+                                                                   
             Console.WriteLine();
             Humano manolo = new Humano("Manuel", false, 40);
-            Console.WriteLine();
+            // Por ultimo la clase "Humano" repite los dos datos anteriores
+            // Y añade el parametro "int" para la edad.
+
             // No es necesario que sea de esta manera,pero si creamos uno o varios constructores en la clase Madre (superclase)
             // esto nos obliga aque las clases hijas mantengan ese constructor.
 
-            Console.WriteLine("metodo pensar");
-            manolo.pensar();
+
+            Console.WriteLine();
+
+
 
             //---------------------------------------------------------------------------------
 
-
+            // C A M P O S   D E   C L A S E     (VARIABLES)
 
             // Solo de manera ilustrativa coloque un campo de clase público en cada clase para ver la herencia
             // Mamifero "nombre"  -  Placentario "apellido"  -  Humano "edad"  -
@@ -65,11 +72,28 @@ namespace _005_Herencia
 
             //---------------------------------------------------------------------------------
 
+            // M E T O D O S
+
+            // Al igual que con los campos, cada "subclase" añade un metodo a la "superclase"
+
+            // Metodos de la clase base "Mamiferos"
+            Console.WriteLine("\r\nMamifero");
+            ballena.CuidarCria();
+            ballena.Respirar();
+
+            Console.WriteLine("\r\nPlacentario");
+            caballo.CuidarCria();
+            caballo.Respirar();
+            caballo.Gestar(); // Metodo de la clase "Placentarios"
+
+            Console.WriteLine("\r\nHumano");
+            manolo.CuidarCria();
+            manolo.Respirar();
+            manolo.Gestar();
+            manolo.Charlar(); // Metodo de la clase "Humano"
 
 
-            //
-
-
+            Console.WriteLine();
 
         }
     }
