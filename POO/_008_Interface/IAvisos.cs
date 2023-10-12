@@ -27,10 +27,21 @@ namespace _008_Interface
         void MostrarAviso();
 
         string GetFecha();
-                
+
+        // El siguiente metododo solo fue creado para generar una ambiguedad entre interfaces
+        String EsRepetido();                
+
+
+
+        // R E S T R I C C I O N E S
+        // .No se pueden definir campos (variables) en interfaces, solo metodos.
+        // .No se pueden definir constructores
+        // .No se pueden definir destructores
+        // .No se pueden especificar modificadores de acceso en metodos (todos son "public" de forma implicita)
+        // .No se pueden anidar clases ni otro tipo de estructuras en las interfaces
+
 
         /*         
-
              Las clases que implementan una interfaz deben proporcionar implementaciones concretas para todos los miembros de la interfaz. 
              De esta manera, aseguran que cumplen con el contrato especificado por la interfaz. 
              Esto permite que múltiples clases implementen la misma interfaz de manera consistente,
@@ -39,5 +50,8 @@ namespace _008_Interface
              Las interfaces se utilizan comúnmente para definir contratos en aplicaciones C# y para lograr la abstracción. 
              Esto permite que las clases compartan un conjunto común de funcionalidades sin heredar de una clase base concreta.
            */
+
+
+
     }
 }

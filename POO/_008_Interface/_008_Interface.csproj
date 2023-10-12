@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AvisosTrafico.cs" />
+    <Compile Include="IAmbiguedad.cs" />
     <Compile Include="IAvisos.cs" />
     <Compile Include="InterfacesProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

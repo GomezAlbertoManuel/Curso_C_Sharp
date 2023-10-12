@@ -10,7 +10,7 @@ namespace _008_Interface
     // Pero una clase puede heredar de otra clase (solo una) y de varias interfaces
     // en ese caso se declara primero la clase de la cual va a herdar y luego las intefaces separadas por comas
     // Ej.: "internal class ClaseHija : ClaseMadre, ITia, IPrimo"
-    internal class AvisosTrafico : IAvisos
+    internal class AvisosTrafico : IAvisos, IAmbiguedad
     {
         private string remitente;
         private string mensaje;
@@ -41,6 +41,41 @@ namespace _008_Interface
             this.remitente = remitente;
             this.mensaje = mensaje;
             this.fecha = fecha;
+        }
+
+
+        // --------------------------------------------------------------------------------
+        // A M B I G U E D A D  E N  I N E R F A C E S
+
+        // Tanto La interface "IAvisos" como la interface "IAmbiguedad" contienen el metodo "EsRepetido" 
+        // Si implenetamos una sola vez este metodo, se genera una ambiguedad y C# asigna el metodo a ambas interfaces
+        // Ejemplo:
+                    // public string EsRepetido() 
+                    // {
+                    //    string texto = "";
+                    //    return texto;
+                    // }
+
+        // Para solucionar esta ambiguedad, primero tenemos que prescindir  del modificador de acceso.
+        // (Igualmente, si por error, escribieramos el modificador de acceso esto generaria un error de compilacion)
+        // seguidamente del tipo de metodo (en este caso es "string") Escribimos:
+        // nombre de la inteface, punto (.), nombre del metodo
+        
+        // NOTA: Crear los metodos sin modificador de acceso es para que este no sea accesible desde cualquier clase
+        // eso nos obligara a crear objetos que pertenescan a la interface de la cual utilizaremos el metodo.
+
+        // Este metodo se refiere al metodo de la interface "IAvisos"
+        string IAvisos.EsRepetido()
+        {
+            string texto = "Este aviso es una repeticion de un mensage enviado a su correo electronico, por favor preste atención";
+            return texto;
+        }
+
+        // Este metodo se refiere al metodo de la interface "IAmbiguedad"
+        string IAmbiguedad.EsRepetido()
+        {
+            string texto = "Este mensaje Quizas fue enviado a su correo electronico, Si cree que es importante para usted, lealo";
+            return texto;
         }
 
     }
