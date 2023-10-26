@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_009_ClasesAbstractas\bin\Debug\_009_ClasesAbstractas.exe.config
+E:\Proyectos C#\POO\_009_ClasesAbstractas\bin\Debug\_009_ClasesAbstractas.exe
+E:\Proyectos C#\POO\_009_ClasesAbstractas\bin\Debug\_009_ClasesAbstractas.pdb
+E:\Proyectos C#\POO\_009_ClasesAbstractas\obj\Debug\_009_ClasesAbstractas.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_009_ClasesAbstractas\obj\Debug\_009_ClasesAbstractas.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_009_ClasesAbstractas\obj\Debug\_009_ClasesAbstractas.exe
+E:\Proyectos C#\POO\_009_ClasesAbstractas\obj\Debug\_009_ClasesAbstractas.pdb

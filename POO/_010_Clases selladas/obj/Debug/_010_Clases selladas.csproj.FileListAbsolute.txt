@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_010_Clases selladas\bin\Debug\_010_Clases selladas.exe.config
+E:\Proyectos C#\POO\_010_Clases selladas\bin\Debug\_010_Clases selladas.exe
+E:\Proyectos C#\POO\_010_Clases selladas\bin\Debug\_010_Clases selladas.pdb
+E:\Proyectos C#\POO\_010_Clases selladas\obj\Debug\_010_Clases selladas.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_010_Clases selladas\obj\Debug\_010_Clases selladas.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_010_Clases selladas\obj\Debug\_010_Clases selladas.exe
+E:\Proyectos C#\POO\_010_Clases selladas\obj\Debug\_010_Clases selladas.pdb

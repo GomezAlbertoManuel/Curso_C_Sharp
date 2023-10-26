@@ -28,6 +28,9 @@ namespace POO
                 " En resumen, la POO en C# organiza el código en objetos que representan\r\n" +
                 " entidades del mundo real, lo que facilita el diseño, la reutilización\r\n" +
                 " y el mantenimiento del software.\r\n");
+
+            // TODO
+            // Metodos Virtuales vs Metodos abstractos
         }
     }
 }
