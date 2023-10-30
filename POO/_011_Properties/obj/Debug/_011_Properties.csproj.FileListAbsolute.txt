@@ -1,0 +1,7 @@
+E:\Proyectos C#\POO\_011_Properties\bin\Debug\_011_Properties.exe.config
+E:\Proyectos C#\POO\_011_Properties\bin\Debug\_011_Properties.exe
+E:\Proyectos C#\POO\_011_Properties\bin\Debug\_011_Properties.pdb
+E:\Proyectos C#\POO\_011_Properties\obj\Debug\_011_Properties.csproj.AssemblyReference.cache
+E:\Proyectos C#\POO\_011_Properties\obj\Debug\_011_Properties.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\POO\_011_Properties\obj\Debug\_011_Properties.exe
+E:\Proyectos C#\POO\_011_Properties\obj\Debug\_011_Properties.pdb
